@@ -1,0 +1,6 @@
+.secrets.json
+/bin/
+/include/
+/lib/
+/__pycache__/
+/.ipynb_checkpoints/
